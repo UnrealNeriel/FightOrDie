@@ -1,0 +1,263 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6da91049-304b-4df4-8a75-f4cbed699afe" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FightOrDie.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/FilePathLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Game.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Handler.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Item/Item.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Item/ItemManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Item/Key.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Item/Potion.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/Launcher.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/display/Display.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/Entity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/EntityManager$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/EntityManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/creatures/Creature.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/creatures/Player.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/creatures/Skeleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/creatures/Zombie.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/statics/Chest.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/statics/StaticEntity.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/entities/statics/Tree.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/Animation.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/Assets.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/FontLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/GameCamera.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/ImageLoader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/SpriteSheet.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/graphics/Text.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/input/KeyManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/input/MouseManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/inventory/Inventory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$3.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$4.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$5.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$6.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState$7.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/FightState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/GameState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/MenuState$1.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/MenuState$2.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/MenuState.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/states/State.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tilegame/ui/ClickListener.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tilegame/ui/UIImageButton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tilegame/ui/UIManager.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tilegame/ui/UIObject.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tilegame/ui/UITextField.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tiles/DirtTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tiles/GrassTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tiles/RockTile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/tiles/Tile.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/utils/Utils.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/FightOrDie/worlds/World.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/fonts/KARNIVOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/fonts/Outwrite.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/fonts/slkscr.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/chest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/fight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/fightButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/inventoryScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/menuBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/menuButtons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/potions_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/textures/sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/worlds/31-05-2017 13-28-19.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/worlds/demoWorld.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/FightOrDie/worlds/world1.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fonts/KARNIVOL.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fonts/Outwrite.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/fonts/slkscr.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/chest.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/enemy.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/fight.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/fightButton.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/inventoryScreen.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/key.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/menuBackground.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/menuButtons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/player.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/potions_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/textures/sheet.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/worlds/31-05-2017 13-28-19.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/worlds/demoWorld.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/res/worlds/world1.wld" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/FilePathLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Game.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Handler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Item/Item.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Item/ItemManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Item/Key.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Item/Potion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/Launcher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/display/Display.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/Entity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/EntityManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/creatures/Creature.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/creatures/Player.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/creatures/Skeleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/creatures/Zombie.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/statics/Chest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/statics/StaticEntity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/entities/statics/Tree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/Animation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/Assets.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/FontLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/GameCamera.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/ImageLoader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/SpriteSheet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/graphics/Text.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/input/KeyManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/input/MouseManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/inventory/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/states/FightState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/states/GameState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/states/MenuState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/states/State.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tilegame/ui/ClickListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tilegame/ui/UIImageButton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tilegame/ui/UIManager.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tilegame/ui/UIObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tilegame/ui/UITextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tiles/DirtTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tiles/GrassTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tiles/RockTile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/tiles/Tile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/utils/Utils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FightOrDie/worlds/World.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="D:\Documents\IdeaProjects\FightOrDie\.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="1fMLGmPORkpjIXQ3d2Em8elcliq" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="vcs.Subversion.SSH" />
+  </component>
+  <component name="RunManager">
+    <configuration name="Launcher" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FightOrDie.Launcher" />
+      <module name="FightOrDie" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="FightOrDie.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Launcher" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\HP GAMING 17\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6da91049-304b-4df4-8a75-f4cbed699afe" name="Default Changelist" comment="" />
+      <created>1596022921983</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1596022921983</updated>
+      <workItem from="1596022925912" duration="839000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1596022948552">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="174" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596022948552" />
+    <state x="585" y="116" key="CommitChangelistDialog2" timestamp="1596023486579">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="116" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1596023486579" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1596023499197">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1596023499197" />
+    <state x="836" y="413" width="502" height="214" key="Github.ShareDialog" timestamp="1596023588290">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="836" y="413" width="502" height="214" key="Github.ShareDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596023588290" />
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1596023778532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1596023778532" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1596023778532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1596023778532" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1596023778531">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1596023778531" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1596023778532">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1596023778532" />
+    <state x="749" y="230" key="RollbackChangesDialog" timestamp="1596023440963">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="749" y="230" key="RollbackChangesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1596023440963" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1596023755220">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1596023755220" />
+  </component>
+</project>
